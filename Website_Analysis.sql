@@ -2,7 +2,7 @@
 -- ===============================================================
 -- Website Analysis SQL Script
 -- ===============================================================
--- Description : This script performs various analyses on website
+-- Description : This script performs various analysis on website
 --               data to extract insights and generate reports.
 -- ===============================================================
 -- Author: Rupsa Chaudhuri
