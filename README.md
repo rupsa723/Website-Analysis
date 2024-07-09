@@ -61,6 +61,7 @@ This repository contains the analysis and strategic plan to enhance our e-commer
 This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
 ## Contact Information
 - **Author:** Rupsa Chaudhuri
-- **LinkedIn:** https://www.linkedin.com/in/rupsa-chaudhuri/
+- [LinkedIn](https://www.linkedin.com/in/rupsa-chaudhuri/)
+- [GitHub Repository](https://github.com/rupsa723?tab=repositories)
 
 
