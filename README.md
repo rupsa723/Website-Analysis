@@ -56,9 +56,6 @@ The website shows positive performance with increasing traffic, revenue, and con
 - **Target Repeat Visitors:** Highlight strategies to retain high-value repeat customers, showcasing the higher conversion rate and revenue per session of repeat visitors to attract investor interest.
 ## Conclusion
 This repository contains the analysis and strategic plan to enhance our e-commerce website's performance, increase traffic, sales, and revenue, and attract potential investors. By focusing on mobile optimization, conversion funnel improvements, and customer retention strategies, we aim to achieve our objectives and ensure sustained growth for our business.
-
-## License
-This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
 ## Contact Information
 - **Author:** Rupsa Chaudhuri
 - [LinkedIn](https://www.linkedin.com/in/rupsa-chaudhuri/)
